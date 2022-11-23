@@ -83,9 +83,6 @@ AssertionError: Задзвоніть за номером нище https://micto.
 AssertionError: Ти шо забув де капслок з шифтом чи зір підводить? Рішення завжди є - дзвони по номеру вказаному вище.
 ```
 
-<span style='color: rgba(255, 255, 255, 0.2)'>Україна пишеться з великої<span>
-
-
 ```
 class Figure:
     def __init__(self, type, length) -> None:
