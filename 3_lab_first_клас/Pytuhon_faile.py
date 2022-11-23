@@ -1,3 +1,7 @@
+Cкрипти:
+    1)  say_Hello("нє")
+    2)  print(len(name)-(len(name)+name.count('і')
+                        
 class MyName:
     """Опис класу / Документація
     """
