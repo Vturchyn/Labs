@@ -40,6 +40,6 @@
 email:
 
 - імена аккаунтам дав так щоб мене можна було ідентифікувати:
-- ![alt text]( "github")
+- ![alt text]( "https://github.com/Vturchyn/Labs/blob/d0020785f3ec921e46e129768c6fbea7a255d027/setting_working_placing/screenshots/username.png "username")
 - за бажанням може заповнив власні профілі і написав коротке інфо:
 - ![alt text]( "github")
