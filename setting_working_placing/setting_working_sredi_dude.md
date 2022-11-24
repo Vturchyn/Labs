@@ -43,3 +43,8 @@ email:
 > ![alt text](https://github.com/Vturchyn/Labs/blob/d0020785f3ec921e46e129768c6fbea7a255d027/setting_working_placing/screenshots/username.png "username")
 - за бажанням заповнив власні профілі і написав коротке інфо:
 > ![alt text](https://github.com/Vturchyn/Labs/blob/354290910ece2c80987e52f1134e363ce5ac80f2/setting_working_placing/screenshots/info.png "info")
+
+---
+
+### **Висновок**: 
+> Під час виконання лабораторної роботи я досягнув мети роботи, а саме налаштував робоче середовище. 
